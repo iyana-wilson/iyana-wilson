@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm learning Korean!
 
